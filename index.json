@@ -1,1 +1,8 @@
-{}
+{
+  "lumanis45/muted-comfort": {
+    "name": "muted-comfort",
+    "author": "Lumanis45",
+    "repo": "https://github.com/Lumanis45/muted-comfort-theme",
+    "description": "Modern comfort theme with muted colors (Gruvbox/Everforest style)"
+  }
+}

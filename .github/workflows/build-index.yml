@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'themes/**' # Запускать только если изменились файлы в папке themes
+      - "themes/**"
 
 jobs:
   build:
